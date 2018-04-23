@@ -1,0 +1,2 @@
+tes:
+	runhaskell Spec.hs
